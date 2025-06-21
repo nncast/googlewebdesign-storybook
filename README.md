@@ -1,7 +1,7 @@
 # GoogleWebDesign-Storybook
 (2024)
 
-A UI/UX-focused interactive storybook built with **Google Web Designer**, blending animation and storytelling—featuring over **150 pages** of motion-driven narratives inspired by Reddit plotlines. But im ngl I focused more on the plot than the actual interactivity which resulted in 70 pages animated remake of "Rabbit Stew" instead.
+A UI/UX-focused interactive storybook built with **Google Web Designer**, blending animation and storytelling with over **100 pages**. But im ngl I focused more on the plot than the actual interactivity which resulted in 70 pages animated remake of ["Rabbit Stew"](https://www.scaryforkids.com/rabbit-stew/) instead.
 
 **Features**
 - 100+ animated pages  
