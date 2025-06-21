@@ -13,9 +13,9 @@ A UI/UX-focused interactive storybook built with **Google Web Designer**, blendi
 - Google Chrome or any modern browser (Chrome preferred for full preview support)
   
 **Installation Instructions**
-1. **Download** and extract the project `.zip` file.
-2. Open `Storybook_Demo.html` in Chrome using Google Web Designer’s preview—or open directly in browser.
-3. Explore the animations and UX/UI interactions!
+1. Download and extract the project `.zip` file.
+2. Using Google Web Designer’s open `Storybook_Demo.html` in the file.
+3. Click preview on the top right and select Chrome.
 
 ---
 Developed by Janelle Ann Castillo (nncast)
