@@ -20,7 +20,7 @@ A UI/UX-focused interactive storybook built with **Google Web Designer**, blendi
 
 **Requirements**
 - [Google Web Designer](https://webdesigner.withgoogle.com/) (latest version)
-- Google Chrome or any modern browser (Chrome preferred for full preview support)
+- Google Chrome or any modern browser (Chrome preferred)
   
 **Installation Instructions**
 1. Download and extract the project `.zip` file.
