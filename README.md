@@ -1,20 +1,21 @@
 # GoogleWebDesign-Storybook
 (2024)
 
-This is a storybook that I made in Google Web Design, it explore ui/ux design.
+A UI/UX-focused interactive storybook built with **Google Web Designer**, blending animation and storytelling—featuring over **150 pages** of motion-driven narratives inspired by Reddit plotlines.
 
-**Features**
-- 150 pages
-- animations
-- plot from reddit :)
+## Features
+- 100+ animated pages  
+- Interactive UI/UX concepts  
+- Web-optimized visual storytelling  
 
 **Requirements**
-- Google Web Designer
+- [Google Web Designer](https://webdesigner.withgoogle.com/) (latest version)
+- Google Chrome or any modern browser (Chrome preferred for full preview support)
   
 **Installation Instructions**
-1. Download and extract the project .zip file.
-2. open the html file in gwd
-3. preview on chrome or any browser (but preferably chrome)
+1. **Download** and extract the project `.zip` file.
+2. Open `Storybook_Demo.html` in Chrome using Google Web Designer’s preview—or open directly in browser.
+3. Explore the animations and UX/UI interactions!
 
 ---
 Developed by Janelle Ann Castillo (nncast)
