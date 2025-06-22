@@ -5,7 +5,7 @@ A UI/UX-focused interactive storybook built with **Google Web Designer**, blendi
 
 **Preview:**
 
-["Video Preview"](https://youtu.be/_9GphO3P6es)
+[Video Preview](https://youtu.be/_9GphO3P6es)
 
 <img src="https://github.com/user-attachments/assets/64089ab8-cdd7-409a-9305-503c72e37048" width="400"/>
 <img src="https://github.com/user-attachments/assets/d8573c7b-8bea-42e9-9be7-c3e754592efe" width="400"/>
