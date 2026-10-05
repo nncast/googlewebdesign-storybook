@@ -1,8 +1,8 @@
-<h1 align="center">Rabbit Stew</h1>
-<p align="center"><i>An interactive animated storybook</i></p>
+<h1 align="center">Dinner With Grandpa</h1>
+<p align="center"><i>An interactive animated storybook, adapted from "Rabbit Stew"</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/released-June%202024-8038C5?style=flat-square" alt="released">
+  <img src="https://img.shields.io/badge/version-0.1.0-8038C5?style=flat-square" alt="version">
   <img src="https://img.shields.io/badge/status-complete-2772BD?style=flat-square" alt="status">
   <img src="https://img.shields.io/badge/Google%20Web%20Designer-16.3-2B9580?style=flat-square&logo=google&logoColor=white" alt="Google Web Designer">
   <img src="https://img.shields.io/badge/HTML5-browser-E59A18?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -13,11 +13,14 @@
   <a href="https://youtu.be/_9GphO3P6es" target="_blank" rel="noopener noreferrer"><strong>Video Preview</strong></a> ·
   <a href="#read-the-storybook">Read the Storybook</a> ·
   <a href="#edit-the-project">Edit the Project</a> ·
-  <a href="#project-structure">Project Structure</a>
+  <a href="#project-structure">Project Structure</a> ·
+  <a href="https://github.com/nncast/GoogleWebDesign-Storybook/releases" target="_blank" rel="noopener noreferrer">Release Notes</a>
 </p>
 
-**Rabbit Stew** is an interactive, animated picture-book adaptation of the short story ["Rabbit Stew"](https://www.scaryforkids.com/rabbit-stew/), designed and built in **Google Web Designer**.
+**Dinner With Grandpa** is an interactive, animated picture-book adaptation of the short story ["Rabbit Stew"](https://www.scaryforkids.com/rabbit-stew/), designed and built in **Google Web Designer**.
 It started as a UI/UX exercise in interactive design and grew into a 70-page illustrated story. With the title, settings, credits and ending screens, the full page deck has 150 pages, each with its own animation, music and sound.
+
+> **Current version: v0.1.0**, the first release (June 2024). See the [Release Notes](https://github.com/nncast/GoogleWebDesign-Storybook/releases) for details.
 
 > **Content warning:** this storybook contains death, graphic violence, a suggestive reference to cannibalism, and **flashing lights**. The same warning is shown before the story begins.
 
@@ -72,4 +75,4 @@ An internet connection is needed for the fonts, which load from Google Fonts.
 
 ## Credits
 
-- **Story:** "Rabbit Stew," from [Scary For Kids](https://www.scaryforkids.com/rabbit-stew/)
+- **Original story:** "Rabbit Stew," from [Scary For Kids](https://www.scaryforkids.com/rabbit-stew/)
