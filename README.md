@@ -2,11 +2,11 @@
 <p align="center"><i>An interactive animated storybook, adapted from "Rabbit Stew"</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.1.0-8038C5?style=flat-square" alt="version">
-  <img src="https://img.shields.io/badge/status-complete-2772BD?style=flat-square" alt="status">
-  <img src="https://img.shields.io/badge/Google%20Web%20Designer-16.3-2B9580?style=flat-square&logo=google&logoColor=white" alt="Google Web Designer">
-  <img src="https://img.shields.io/badge/HTML5-browser-E59A18?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/content-warning-CA2A44?style=flat-square" alt="content warning">
+  <img src="https://img.shields.io/badge/version-0.1.0-376E95?style=flat-square" alt="version">
+  <img src="https://img.shields.io/badge/status-complete-376E95?style=flat-square" alt="status">
+  <img src="https://img.shields.io/badge/Google%20Web%20Designer-16.3-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Web Designer">
+  <img src="https://img.shields.io/badge/HTML5-browser-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/content-warning-376E95?style=flat-square" alt="content warning">
 </p>
 
 <p align="center">
